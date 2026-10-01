@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+KTXGo_21127781/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+.expo/
+KTXGo_21127781/.expo/
+dist/
+build/
+*.jsbundle
+.bundle/
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+KTXGo_21127781/android/app/build/
+KTXGo_21127781/android/build/
+KTXGo_21127781/android/.gradle/
+KTXGo_21127781/android/app/.cxx/
+*.apk
+*.aab
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log

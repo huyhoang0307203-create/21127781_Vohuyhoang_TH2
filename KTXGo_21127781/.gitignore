@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+.expo/
+dist/
+build/
+*.jsbundle
+.bundle/
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/app/.cxx/
+*.apk
+*.aab
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.log
+tmp/
+scratch/
